@@ -1,0 +1,3 @@
+# Dependencias necesarias para ejecutar Medirutas Demo
+
+Pillow>=9.0.0
