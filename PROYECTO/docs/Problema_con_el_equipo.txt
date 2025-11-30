@@ -1,0 +1,76 @@
+Informe sobre distribución de responsabilidades y aportes en el proyecto
+
+Dirigido a: Profesor Roy
+Curso: Programación
+Fecha: 30/11/2025
+
+Integrantes del grupo:
+Juan Esteban González Ávila
+Tomás Montoya
+Felipe López
+Lina Álvarez
+
+
+1. Propósito del informe
+El siguiente documento tiene como objetivo presentar, de manera objetiva y basada en hechos verificables, la distribución del trabajo, los aportes efectivos de cada integrante y los incumplimientos observados durante el desarrollo del proyecto. Esto con el fin de solicitar que la evaluación refleje la participación real de cada miembro.
+
+2. Distribución inicial de responsabilidades
+
+Juan Esteban González Ávila:
+Desarrollo completo del directorio src del proyecto.
+Implementación y documentación manual de cada archivo.
+Pruebas de funcionamiento.
+Elaboración del documento Word para la primera entrega.
+Coordinación general del equipo.
+Solicitud y seguimiento de avances a los demás miembros.
+Apoyo en corrección del diseño del prototipo entregado por Lina y Felipe.
+Preparación de partes asignadas para la presentación: config.py y window_crear_codigos.py, además de la sección introductoria.
+
+Tomás Montoya:
+Encargado del diseño de la base de datos.
+Encargado del cálculo de pagos y rutas (no desarrollado).
+Entrega únicamente del modelo de base de datos para el login y creación de cuentas en la tercera semana.
+Preparación de partes de la presentación: rol_manager.py y window_login.
+Elaboración de diálogos de presentación para él, Lina y Felipe mediante IA sin revisión propia.
+
+Felipe López:
+Encargado del Canva del diseño de interfaz junto con Lina (primera semana).
+Entrega realizada tres semanas después del plazo inicial.
+Elaboración del informe final (incompleto).
+Preparación de partes de la presentación: main.py y database.py (según repartición acordada).
+Diálogos no elaborados por él mismo; entregados por Tomás usando herramientas automáticas sin revisión.
+
+Lina Álvarez:
+Encargada del Canva de interfaz junto con Felipe.
+Entrega tardía (tres semanas después del plazo).
+Preparación de partes de la presentación: main.py y database.py (según repartición acordada).
+Participación muy limitada en discusiones del proyecto.
+Textos de presentación no elaborados por ella misma.
+
+3. Incumplimientos y dificultades durante el trabajo en grupo:
+
+Retrasos graves en las entregas de diseño (Lina y Felipe).
+El Canva, planeado para la primera semana, fue entregado tres semanas después, y varias correcciones debieron ser realizadas directamente por Juan Esteban.
+
+Incumplimiento en el desarrollo asignado (Tomás).
+Solo se completó el modelo de BD del login, dejando sin desarrollar las rutas y cálculos de pagos asignados inicialmente, siendo el motido por el cual Juan empezo a realizar el proyecto por medio de Cursor dado que no se tenia el codigo minimo acordado para la entrega.
+
+Cambios unilaterales en la organización de la presentación.
+A pesar de haber acordado la repartición de partes para exponer, Tomás modificó el orden asignando nuevas secciones sin consenso.
+
+Entrega de diálogos no elaborados por los responsables.
+Tomás entregó diálogos para él, Lina y Felipe generados por IA sin que ellos los revisaran ni los prepararan personalmente.
+
+Falta de participación activa de algunos miembros.
+La coordinación y supervisión del trabajo recayó casi completamente en Juan Esteban.
+
+4. Evidencias de los aportes diferenciales
+
+El desarrollo técnico del proyecto se realizó principalmente por un solo integrante.
+Los retrasos y la falta de trabajo efectivo por parte de algunos miembros obligaron a reestructurar y corregir tareas inicialmente asignadas.
+La preparación para la presentación muestra una disparidad similar: algunos miembros no elaboraron su contenido y lo delegaron indirectamente.
+
+5. Solicitud de evaluación diferenciada
+Con base en lo ocurrido, se solicita respetuosamente que la calificación del proyecto refleje el aporte real y verificable de cada integrante. Considerando la carga efectiva asumida por cada miembro
+
+El presente documento busca únicamente proporcionar claridad sobre el proceso de trabajo del grupo y asegurar que la evaluación final represente el esfuerzo real de cada integrante.
